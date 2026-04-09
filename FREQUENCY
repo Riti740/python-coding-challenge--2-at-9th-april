@@ -13,7 +13,7 @@
     {
       "cell_type": "code",
       "source": [
-        "#  FREQUENCY\n",
+        "# FREQUENCY\n",
         "lst = list(map(int, input().split()))\n",
         "d = {}\n",
         "for i in lst:\n",
@@ -21,7 +21,7 @@
         "print(d)"
       ],
       "metadata": {
-        "id": "l20rghs00Pgc"
+        "id": "z08MO0Rn0g4r"
       },
       "execution_count": null,
       "outputs": []
