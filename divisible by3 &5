@@ -13,14 +13,16 @@
     {
       "cell_type": "code",
       "source": [
-        "n = int(input())\n",
+        "\n",
+        " #divisible by 3&5\n",
+        " n = int(input())\n",
         "if n % 3 == 0 and n % 5 == 0:\n",
         "    print(\"Yes\")\n",
         "else:\n",
         "    print(\"No\")"
       ],
       "metadata": {
-        "id": "bKPBYWrFicBS"
+        "id": "-kMNakx5jEgN"
       },
       "execution_count": null,
       "outputs": []
