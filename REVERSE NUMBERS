@@ -13,12 +13,12 @@
     {
       "cell_type": "code",
       "source": [
-        "#REVERS NUMBER\n",
-        "n = input()\n",
-        "print(n[::-1])"
+        " #PALINDROME NUMBER\n",
+        " n = input()\n",
+        "print(\"Palindrome\" if n == n[::-1] else \"Not\")"
       ],
       "metadata": {
-        "id": "biLetzF1oMCr"
+        "id": "rUGeEgqQor24"
       },
       "execution_count": null,
       "outputs": []
