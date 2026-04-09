@@ -1,0 +1,46 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Riti740/python-coding-challenge--2-at-9th-april/blob/main/EVEN%20NUMBERS%20FUNCTION%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        " #MODULE\n",
+        " # file: add.py\n",
+        "def add(a, b):\n",
+        "    return a + b\n",
+        "\n",
+        "# main file\n",
+        "import add\n",
+        "print(add.add(2,3))"
+      ],
+      "metadata": {
+        "id": "diSnxCKW4ZZ8"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Welcome To Colab",
+      "toc_visible": true,
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
