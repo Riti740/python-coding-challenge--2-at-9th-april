@@ -13,12 +13,16 @@
     {
       "cell_type": "code",
       "source": [
-        "salary = int(input())\n",
-        "bonus = salary * 0.07\n",
-        "print(\"Bonus =\", int(bonus))"
+        "age = int(input())\n",
+        "if age < 18:\n",
+        "    print(\"Minor\")\n",
+        "elif age < 60:\n",
+        "    print(\"Adult\")\n",
+        "else:\n",
+        "    print(\"Senior\")"
       ],
       "metadata": {
-        "id": "FrsrCDGzhyuo"
+        "id": "7L9j3qW-iFAr"
       },
       "execution_count": null,
       "outputs": []
