@@ -13,16 +13,12 @@
     {
       "cell_type": "code",
       "source": [
-        " login system\n",
-        " u = input()\n",
-        "p = input()\n",
-        "if u == \"admin\" and p == \"1234\":\n",
-        "    print(\"Login Successful\")\n",
-        "else:\n",
-        "    print(\"Invalid\")"
+        "  largest of 3\n",
+        "  a, b, c = map(int, input().split())\n",
+        "print(max(a, b, c))"
       ],
       "metadata": {
-        "id": "szurwsxkkC4m"
+        "id": "JDKDrWeYkuO6"
       },
       "execution_count": null,
       "outputs": []
